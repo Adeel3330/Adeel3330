@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/enxari_adeel" target="blank"><img src="https://img.shields.io/twitter/follow/enxari_adeel?logo=twitter&style=for-the-badge" alt="enxari_adeel" /></a> </p>
 
-- 🔭 I’m currently working on [Jamila Sultana Foundation](app.jsf.com.pk)
+- 🔭 I’m currently working on [Jamila Sultana Foundation](https://app.jsf.com.pk)
 
 - 🌱 I’m currently learning **Laravel Vue.Js & GraphQL**
 
-- 👯 I’m looking to collaborate on [Gulhaze](gulhaze.com)
+- 👯 I’m looking to collaborate on [Gulhaze](https://gulhaze.com)
 
-- 🤝 I’m looking for help with [Sistema Radical](sistemaradical.com)
+- 🤝 I’m looking for help with [Sistema Radical](https://sistemaradical.com)
 
 - 👨‍💻 All of my projects are available at [adeeltariq.vercel.app/](adeeltariq.vercel.app/)
 
