@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Sistema Radical](https://sistemaradical.com)
 
-- 👨‍💻 All of my projects are available at [https://adeeltariq.vercel.app/](adeeltariq.vercel.app/)
+- 👨‍💻 All of my projects are available at [adeeltariq.vercel.app/](https://adeeltariq.vercel.app/)
 
 - 💬 Ask me about **Laravel Vuejs & GraphQL**
 
